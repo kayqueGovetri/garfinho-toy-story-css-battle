@@ -1,0 +1,67 @@
+<div class="x">
+<div class="gg a"></div>
+<div class="ac gg b"></div>
+<div class="gg c"></div>
+<div class="ac gg d"></div>
+<div class="gg e"></div>
+<div class="gg ac f"></div>
+<div class="gg g"></div>
+</div>
+<div class="r">
+</div>
+<div class="i gg"></div>
+<style>
+  *{
+    background: #6592CF;
+  }
+  .r {
+    width: 140px;
+    background: #060F55;
+    position: absolute;
+    height: 132px;
+    top: 118px;
+    left: 130px;
+    border-radius: 100%;
+  }
+  .gg {
+	width: 20px;
+    height: 140px;
+    border-radius: 10px;
+    position: absolute;
+    background: #060F55;
+    z-index: 1;
+  }
+  .ac{
+    background: #6592CF;
+    height: 110px;
+  }
+  .x {
+    position: absolute;
+    top: 50px;
+  }
+   .a{
+    left: 122px;
+  }
+  .b{
+    left: 142px;
+  }
+  .c{
+    left: 162px;
+  }
+  .d{
+     left: 182px;
+  }
+  .e{
+    left: 202px;
+  }
+  .f{
+     left: 222px;
+  }
+  .g{
+    left: 242px;
+  }
+  .i{
+    left: 190px;
+    top: 200px;
+  }
+</style>
